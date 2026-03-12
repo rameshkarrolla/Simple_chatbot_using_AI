@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "Hi",
+      "answer": "Hiiii!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "Good!"
+    },
+    {
+      "question": "Who is praveen",
+      "answer": "Motherson employee in sap fiori"
+    }
+  ]
+}
